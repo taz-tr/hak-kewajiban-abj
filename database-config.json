@@ -1,0 +1,13 @@
+{
+  "files": [
+    "Pemenuhan Kewajiban PAM JAYA PT ABJ dan KPI dalam PKS Bundling - 2026-07-14.xlsx"
+  ],
+  "dateSource": "filename",
+  "fileNameDateFormats": [
+    "YYYY-MM-DD",
+    "YYYYMMDD",
+    "DD-MM-YYYY",
+    "DD Month YYYY"
+  ],
+  "defaultCutOffDate": "2026-07-14"
+}

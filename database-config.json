@@ -1,0 +1,7 @@
+{
+  "files": [
+    "Pemenuhan Kewajiban PAM JAYA PT ABJ dan KPI dalam PKS Bundling V.ABJ - 2026-07-14.xlsx"
+  ],
+  "defaultCutOffDate": "2026-07-14",
+  "note": "Tambahkan file Excel cut off baru ke array files. Tanggal cut off akan dibaca dari nama file, contoh: ... - 2026-07-31.xlsx"
+}
